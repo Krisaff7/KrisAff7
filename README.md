@@ -38,7 +38,7 @@ Passionné par le développement d'applications robustes et l'automatisation, je
 ---
 
 ### 📫 Me contacter
-- **LinkedIn :** [Lien vers ton profil LinkedIn]
+- **LinkedIn :** www.linkedin.com/in/mahouton-kris-affokpon-12811937a
 - **Email :** affokponkris4@gmail.com
 
 ---
