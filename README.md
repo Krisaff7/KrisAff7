@@ -29,7 +29,7 @@ Je suis un développeur passionné par la création de solutions web et mobiles 
 ---
 
 ### 📫 Me contacter
-- **LinkedIn :** [Lien vers ton profil LinkedIn]
+- **LinkedIn :** www.linkedin.com/in/mahouton-kris-affokpon-12811937a
 - **Email :** affokponkris4@gmail.com
 
 ---
