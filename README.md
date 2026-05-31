@@ -2,6 +2,8 @@
 
 **Étudiant en L2 Génie Logiciel à l'IFRI (UAC) · Développeur Fullstack · Futur Ingénieur DevOps & Cloud**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Krisaff7&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
 Je conçois des applications mobiles et web robustes, avec une appétence croissante pour l'automatisation et l'infrastructure cloud. Mon objectif : maîtriser l'ensemble du cycle de vie logiciel, du code à la mise en production.
 
 ---
@@ -32,6 +34,13 @@ Je conçois des applications mobiles et web robustes, avec une appétence croiss
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### Statistiques GitHub
+
+![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krisaff7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisaff7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
