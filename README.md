@@ -39,8 +39,9 @@ Je conçois des applications mobiles et web robustes, avec une appétence croiss
 
 ### Statistiques GitHub
 
-![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krisaff7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisaff7&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Krisaff7&theme=tokyonight&hide_border=true&locale=fr)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krisaff7&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
