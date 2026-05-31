@@ -46,6 +46,9 @@ Je conçois des applications mobiles et web robustes, avec une appétence croiss
 
 ### Projets
 
+**[amk.dev — Portfolio](https://github.com/Krisaff7/amk.dev-portfolio)**
+Portfolio personnel conçu pour présenter mon identité de développeur, mes compétences et mes réalisations. Interface moderne avec mode sombre, animations fluides et support bilingue FR/EN — React.js · Tailwind CSS · Framer Motion.
+
 **[Writapp](https://github.com/Krisaff7/Writapp)**
 Application mobile Android de prise de notes — React Native · TypeScript · SQLite.
 Interface épurée, stockage local intégral, fonctionnement 100% hors-ligne.
